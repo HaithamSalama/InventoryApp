@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="array_supplier_options">
+        <item>@string/philipse</item>
+        <item>@string/g4</item>
+    </string-array>
+</resources>

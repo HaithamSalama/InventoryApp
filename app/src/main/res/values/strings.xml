@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Inventory App</string>
+    <string name="insert_default_data">Insert Default Data</string>
+    <string name="philipse">Philipse</string>
+    <string name="g4">G4 Smart Bus</string>
+    <string name="add_product">Add Product</string>
+    <string name="save">Save</string>
+    <string name="product_name">Product Name</string>
+    <string name="product">Product</string>
+    <string name="price_s">Price ($)</string>
+    <string name="price">Price</string>
+    <string name="quantity">Quantity</string>
+    <string name="supllier">Supllier</string>
+    <string name="supllier_num">Phone</string>
+    <string name="phone_num">Phone Num.</string>
+    <string name="unknown_price">Ask for price</string>
+    <string name="empty_view_title_text">Think how you gonna fill it.…</string>
+    <string name="empty_view_subtitle_text">Get started by adding a product</string>
+    <string name="action_delete_all_entries">Delete all products</string>
+    <string name="delete_dialog_msg">Delete all products?</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="erased_data">All Data Erased</string>
+    <string name="editor_activity_title_new_product">Add Product</string>
+    <string name="editor_activity_title_edite_product">Edite Product</string>
+    <string name="editor_insert_product_failed">Error with saving product</string>
+    <string name="editor_insert_product_successful">Product saved</string>
+    <string name="editor_update_product_failed">Error with updating product</string>
+    <string name="product_updated">Updated</string>
+    <string name="unsaved_changes_dialog_msg">Discard your changes and quit editing?</string>
+    <string name="discard">Discard</string>
+    <string name="keep_editing">Keep Editing</string>
+    <string name="editor_delete_pet_failed">Error with deleting pet</string>
+    <string name="editor_delete_pet_successful">Pet deleted</string>
+    <string name="poduct_details">Product Details</string>
+    <string name="sell">Sell</string>
+    <string name="call">Call</string>
+    <string name="last_item">This is the last one</string>
+    <string name="out_of_stock">Sorry out of stock</string>
+
+
+</resources>
